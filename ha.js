@@ -2,7 +2,7 @@ const regex = /(0[1-9]|[12][0-9]|3[01])[-\/](0[1-9]|1[0-2])[-\/](200[0-9]|201[1-
   
 const sr = 'hola soy audel tengo naci 12-11-2009  mi mama nacioel 12-09-2009 ';
 
-
+console.log()
 console.log(regex.test(sr));
 
 console.log(sr.match(regex));
