@@ -5,6 +5,8 @@ const sr = 'hola soy audel tengo naci 12-11-2009  mi mama nacioel 12-09-2009 ';
 console.log()
 console.log(regex.test(sr));
 conso.log()
+conso.log()
+
 console.log(sr.match(regex));
 if(regex.test(sr)) {
   console.log('Matched');
